@@ -1,6 +1,6 @@
 Name:		texlive-accents
 Version:	51497
-Release:	1
+Release:	2
 Summary:	Multiple mathematical accents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/accents
