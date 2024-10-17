@@ -3,7 +3,7 @@ Version:	51497
 Release:	2
 Summary:	Multiple mathematical accents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/accents
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/accents
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/accents.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/accents.doc.r%{version}.tar.xz
